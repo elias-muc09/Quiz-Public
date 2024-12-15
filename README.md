@@ -1,3 +1,2 @@
 # Quiz-Public
-Das ist mein kleines quiz. 
-Es ist noch nicht fertig.
+This is my unfinished quiz.
